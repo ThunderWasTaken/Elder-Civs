@@ -1,41 +1,39 @@
 [
     {
-		"name": "Adelle Corp",
-		"leaderName": "Kane",
+		"name": "Cyrodiil",
+		"leaderName": "Tiber Septim",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text.",
-		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
-		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
-		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
-		"introduction": "If I am cut, Do I not bleed?",
-		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
-		"outerColor": [0,0,0],
-		"innerColor": [142,22,0],
-		"uniqueName": "Word of Nod",
-		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"startIntroPart1": "Tiber Septim of the Cyrodiilic Empire. You are a Dragonborn and the first Emperor of the Septim Empire. You are regarded as one of Tamriel's most famous figures, having been the only one in history to unite the continent. Starting with your service under the Cyrodilic emperor Cuhlecain, you fought under the name 'General Talos' to unify Cyrodiil, eventually succeeding or usurping Cuchlecain and becoming emperor. After your unification of Tamriel, an effort that culminated in the birth of the Third Empire, you ended the lengthy Interregnum and began the Third Era. You gave your name to the lineage of Cyrodiil Emperors, the Septims. Upon your death you became the deity Talos and took his place in the pantheon of the Nine Divines.",
+		"declaringWar": "Surrender! You stand no chance against my might!",
+		"attacked": "I pity your soldiers, they do not deserve to die from such a foolish decision!",
+		"defeated": "Well faught... I have lost...",
+		"introduction": "Halt, I am Tiber Septim.",
+		"tradeRequest": "Kindness will always be repaid.",
+		"outerColor": [78,2,15],
+		"innerColor": [1,1,1],
+		"uniqueName": "Imperial Legion",
+		"uniques": ["[-20]% unhappiness from the number of cities", "[+10]% Strength <when below [0] Happiness>"],
+		"cities": ["Imperial City","Skingrad","Kvatch","Leyawiin","Bruma","Anvil","Bravil","Cheydinhal","Chorrol","Delodiil","Weynon Priory",
+				"Celediil","Sutch","Narlemae","Bethal Gray","Abagarlas","Mir Corrup","Applewatch","Hackdirt"]
 	},
 
 	{
-		"name": "The New Movement",
-		"leaderName": "Anton Slavik",
+		"name": "Summerset Isles",
+		"leaderName": "Ayrenn Arana Aldmeri",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text",
-		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
+		"startIntroPart1": "Ayrenn Arana Aldmeri, the High Queen of the Summerset Isles and the founder first iteration of the Aldmeri Dominion, one of the strongest alliances in history. Your life has held significance to the higher powers of Summerset, as your birth and times were foretold by the Scrolls of Praxis.",
+		"declaringWar": "The Aldmeri Dominion will grow!",
 		"attacked": "Pitiful fool! Now we shall destroy you!",
-		"defeated": "I see for the black hand has been unworthy to serve Kane.",
-		"introduction": "If you would stay out of our way then you might live to tell your tale.",
-		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
-		"outerColor": [139,0,0],
-		"innerColor": [0,0,0],
-		"uniqueName": "Purification",
-		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"defeated": "Auri-El save us!",
+		"introduction": "I am the one destined to conquer the world! I am Ayrenn Arana Aldmeri!",
+		"tradeRequest": "Accept or not, just make it quick!",
+		"outerColor": [163,150,113],
+		"innerColor": [59,60,68],
+		"uniqueName": "High Society",
+		"uniques": ["No damage penalty for wounded units", "[+1 Happiness] [in all cities]"],
+		"cities": ["Alinor","Firsthold","Shimmerene","Dusk","Tyrigel","Vulkhel Guard","Lillandril","Cloudrest","Sil-Var-Woad","Skywatch","Sunhold",
+"Dawnbreak","Greenwater Cove","Mathiisen","Phaer","Shattered Grove","Silsailen","Russafeld","Direnni Acropolis"]
 	}
 ]
