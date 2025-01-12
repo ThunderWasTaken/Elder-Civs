@@ -29,5 +29,18 @@
 		"uniques": ["Prevents spreading of religion to the city it is next to", "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>"],
 		"obsoleteTech": "Industrialization",
 		"attackSound": "crossbow"
+	},
+	{
+		"name": "Nord",
+		"unitType": "Sword",
+		"uniqueTo": "Skyrim",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 10,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Blitz"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
 	}
 ]
