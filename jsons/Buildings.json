@@ -18,7 +18,7 @@
 		"cityStrength": 2,
 		"cityHealth": 25,
 		"hurryCostModifier": 50,
-		"uniques": ["Remove extra unhappiness from annexed cities", "Can be purchased with [Faith] [in all cities]"],
+		"uniques": ["Remove extra unhappiness from annexed cities", "Can be purchased with [Faith] [in annexed cities]", "Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
 	}
 ]
