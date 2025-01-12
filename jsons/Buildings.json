@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Imperial Fortress",
+		"replaces": "Walls",
+		"uniqueTo": "Cyrodiil",
+		"cityStrength": 6,
+		"cityHealth": 75,
+                "happiness": 3,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Thalmor Embassy",
+                "replaces": "Courthouse",
+                "uniqueTo": "Summerset Isles",
+		"maintenance": 4,
+		"cityStrength": 2,
+		"cityHealth": 25,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities", "Can be purchased with [Faith] [in all cities]"],
+		"requiredTech": "Mathematics"
+	}
+]
