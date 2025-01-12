@@ -2,6 +2,9 @@
     {
 		"name": "Cyrodiil",
 		"leaderName": "Tiber Septim",
+		"adjective": ["Cyrodiilic"],
+		"startBias": ["Plains"],
+		"personality": "Tiber Septim",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Tiber Septim of the Cyrodiilic Empire. You are a Dragonborn and the first Emperor of the Septim Empire. You are regarded as one of Tamriel's most famous figures, having been the only one in history to unite the continent. Starting with your service under the Cyrodilic emperor Cuhlecain, you fought under the name 'General Talos' to unify Cyrodiil, eventually succeeding or usurping Cuchlecain and becoming emperor. After your unification of Tamriel, an effort that culminated in the birth of the Third Empire, you ended the lengthy Interregnum and began the Third Era. You gave your name to the lineage of Cyrodiil Emperors, the Septims. Upon your death you became the deity Talos and took his place in the pantheon of the Nine Divines.",
@@ -21,6 +24,9 @@
 	{
 		"name": "Summerset Isles",
 		"leaderName": "Ayrenn Arana Aldmeri",
+		"adjective": ["Aldmeri"],
+		"startBias": ["Coast"],
+		"personality": "Ayrenn Arana Aldmeri",
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Ayrenn Arana Aldmeri, the High Queen of the Summerset Isles and the founder first iteration of the Aldmeri Dominion, one of the strongest alliances in history. Your life has held significance to the higher powers of Summerset, as your birth and times were foretold by the Scrolls of Praxis.",
