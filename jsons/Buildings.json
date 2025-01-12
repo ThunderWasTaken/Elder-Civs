@@ -20,5 +20,17 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities", "Can be purchased with [Faith] [in annexed cities]", "Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Nordic Longhouse",
+		"replaces": "Workshop",
+		"uniqueTo": "Skyrim",
+		"maintenance": 1,
+		"production": 2,
+		"food": 1,
+		"culture": 1,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Metal Casting"
 	}
 ]
