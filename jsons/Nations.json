@@ -57,7 +57,7 @@
 		"defeated": "My descendants will be the one to destroy you, I know it! Sovngarde awaits me now!",
 		"introduction": "Divines guide you.",
 		"tradeRequest": "Shall we share our spoils of victory?",
-		"outerColor": [230,233,255),
+		"outerColor": [230,233,255],
 		"innerColor": [1,73,153],
 		"uniqueName": "Throat of the World",
 		"uniques": ["[+1 Food, +1 Production] from [Tundra] tiles [in all cities]", "[+10]% Strength for cities"],
