@@ -1,18 +1,33 @@
 [
-    {
-        "name": "Settler",
-        "unitType": "Civilian",
-        "movement": 2,
-        "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
-    },
-    {
-		"name": "Rifleman",
-		"unitType": "Infantry",
+	  {
+		"name": "Imperial",
+		"unitType": "Sword",
+		"uniqueTo": "Cyrodiil",
+		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 5,
-        "range": 2,
-		"rangedStrength": 7,
-		"cost": 40,
-		"attackSound": "shot"
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["[+10]% to Flank Attack bonuses"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+    	},
+	{
+		"name": "Justiciar",
+		"unitType": "Archery",
+		"uniqueTo": "Summerset Isles",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 20,
+		"replaces": "Crossbowman",
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"uniques": ["Prevents spreading of religion to the city it is next to", "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>"],
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
 	}
 ]
