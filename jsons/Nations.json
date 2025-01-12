@@ -18,7 +18,7 @@
 		"uniqueName": "Imperial Legion",
 		"uniques": ["[-20]% unhappiness from the number of cities", "[+10]% Strength <when below [0] Happiness>"],
 		"cities": ["Imperial City","Skingrad","Kvatch","Leyawiin","Bruma","Anvil","Bravil","Cheydinhal","Chorrol","Delodiil","Weynon Priory",
-				"Celediil","Sutch","Narlemae","Bethal Gray","Abagarlas","Mir Corrup","Applewatch","Hackdirt"]
+		"Celediil","Sutch","Narlemae","Bethal Gray","Abagarlas","Mir Corrup","Applewatch","Hackdirt"]
 	},
 
 	{
@@ -40,6 +40,28 @@
 		"uniqueName": "High Society",
 		"uniques": ["No damage penalty for wounded units", "[+1 Happiness] [in all cities]"],
 		"cities": ["Alinor","Firsthold","Shimmerene","Dusk","Tyrigel","Vulkhel Guard","Lillandril","Cloudrest","Sil-Var-Woad","Skywatch","Sunhold",
-"Dawnbreak","Greenwater Cove","Mathiisen","Phaer","Shattered Grove","Silsailen","Russafeld","Direnni Acropolis"]
+		"Dawnbreak","Greenwater Cove","Mathiisen","Phaer","Shattered Grove","Silsailen","Russafeld","Direnni Acropolis"]
+	},
+
+	{
+		"name": "Skyrim",
+		"leaderName": "Ysgramor",
+		"adjective": ["Skyrimian"],
+		"startBias": ["Tundra"],
+		"personality": "Ysgramor",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Ysgramor, an Atmoran warrior and the leader of the Five Hundred Companions. He is one of the most legendary heroes of Men, who played a pivotal role in the ascendancy of humans on the continent of Tamriel in the late Merethic Era, during the period known as The Return. Ysgramor was the founder of great factions, such as the Companions and the First Empire, beginning the Ysgramor Dynasty. It would last until the death of King Borgas in 1E 369.",
+		"declaringWar": "Victory or Sovngarde!",
+		"attacked": "You shall meet the same fate as the Snow Elves!",
+		"defeated": "My descendants will be the one to destroy you, I know it! Sovngarde awaits me now!",
+		"introduction": "Divines guide you.",
+		"tradeRequest": "Shall we share our spoils of victory?",
+		"outerColor": [56,86,102],
+		"innerColor": [212,194,176],
+		"uniqueName": "Throat of the World",
+		"uniques": ["[+1 Food, +1 Production] from [Tundra] tiles [in all cities]", "[+10]% Strength for cities"],
+		"cities": ["Windhelm","Morthal","Dawnstar","Riften","Winterhold","Solitude","Whiterun","Falkreath","Markarth","Dragon Bridge","Helgen",
+		"Ivarstead","Karthwasten","Rorikstead","Shor's Stone","Riverwood","Snowhawk","Sunguard","Black Moor"]
 	}
 ]
