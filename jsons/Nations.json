@@ -14,7 +14,7 @@
 		"introduction": "Halt, I am Tiber Septim.",
 		"tradeRequest": "Kindness will always be repaid.",
 		"outerColor": [78,2,15],
-		"innerColor": [1,1,1],
+		"innerColor": [255,255,255],
 		"uniqueName": "Imperial Legion",
 		"uniques": ["[-20]% unhappiness from the number of cities", "[+10]% Strength <when below [0] Happiness>"],
 		"cities": ["Imperial City","Skingrad","Kvatch","Leyawiin","Bruma","Anvil","Bravil","Cheydinhal","Chorrol","Delodiil","Weynon Priory",
