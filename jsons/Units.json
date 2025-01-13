@@ -42,5 +42,20 @@
 		"promotions": ["Blitz"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Khajiit",
+		"unitType": "Sword",
+		"uniqueTo": "Elsweyr",
+		"movement": 3,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Guilds",
+		"uniques": ["All tiles cost 1 movement"],
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"hurryCostModifier": 20,
+		"promotions": ["Ambush II", "Sentry"],
+		"attackSound": "metalhit"
 	}
 ]
