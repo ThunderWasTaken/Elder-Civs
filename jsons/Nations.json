@@ -63,5 +63,27 @@
 		"uniques": ["[+1 Food, +1 Production] from [Tundra] tiles [in all cities]", "[+10]% Strength for cities"],
 		"cities": ["Windhelm","Morthal","Dawnstar","Riften","Winterhold","Solitude","Whiterun","Falkreath","Markarth","Dragon Bridge","Helgen",
 		"Ivarstead","Karthwasten","Rorikstead","Shor's Stone","Riverwood","Snowhawk","Sunguard","Black Moor"]
+	},
+
+	{
+		"name": "Elsweyr",
+		"leaderName": "Darloc Brae",
+		"adjective": ["Elsweyrian"],
+		"startBias": ["Desert"],
+		"personality": "Darloc Brae",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Darloc Brae, also known as the Golden Beast and the Beast of Anequina, was a famous Khajiit warrior-king in the First Era. Darloc hailed from the Anequina region, conquering territory from as far as the Larsius River to the Strid River. His people have built temples to him such as the Do'Krin Monastery which is located on the Crescent River in Reaper's March and Khaj Rawlith, a fortress built by his soldiers on the Valenwood front. He at one point during the Anequine Conquests sacked the city of Corinth and burned-down the Grand Archive, although he managed to save some of the ancient Merethic texts and store them within vaults throughout the province."
+		"declaringWar": "Your end is now!",
+		"attacked": "Your cities will fall like the walls of Corinth!",
+		"defeated": "I... Will... Not... Fall! AAARGH!",
+		"introduction": "Blessings of the moons upon you.",
+		"tradeRequest": "Trading is in the blood of our people.",
+		"outerColor": [65, 51, 0],
+		"innerColor": [255,255,230],
+		"uniqueName": "Warm Sands",
+		"uniques": ["[+1 Gold, +1 Production] from each Trade Route"],
+		"cities": ["Dune","Rimmen","Mistral","Rawl'kha","Senchal","Riverhold","Greenhill","Willowgrove","Pa'alat","Do'Krin Monastary","Hakoshae",
+		"Cat's Eye Quay","S'ren-Ja","Vinedusk","Torval","Alabaster","Corinth","Orcrest","Darkarn"]
 	}
 ]
