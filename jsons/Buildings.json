@@ -32,5 +32,16 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting"
+	},
+	{
+        	"name": "Caravan Post",
+		"replaces": "Market",
+		"uniqueTo": "Elsweyr",
+		"gold": 3,
+		"culture": 1,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency"
 	}
 ]
