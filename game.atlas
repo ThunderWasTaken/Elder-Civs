@@ -1,0 +1,90 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Caravan Post
+  rotate: false
+  xy: 4, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Imperial Fortress
+  rotate: false
+  xy: 420, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nordic Longhouse
+  rotate: false
+  xy: 1252, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Thalmor Embassy
+  rotate: false
+  xy: 1460, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Cyrodiil
+  rotate: false
+  xy: 1668, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Elsweyr
+  rotate: false
+  xy: 1776, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Skyrim
+  rotate: false
+  xy: 1884, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Summerset Isles
+  rotate: false
+  xy: 1668, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Imperial
+  rotate: false
+  xy: 212, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Justiciar
+  rotate: false
+  xy: 628, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Khajiit
+  rotate: false
+  xy: 836, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Nord
+  rotate: false
+  xy: 1044, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
